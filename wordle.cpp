@@ -5,11 +5,11 @@
 #include <algorithm> 
 #include <map>
 #include <set>
-#endif
+using namespace std;
 #include <vector>
 #include "wordle.h"
 #include "dict-eng.h"
-using namespace std;
+#endif
 
 
 
